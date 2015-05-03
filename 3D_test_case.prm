@@ -3,7 +3,7 @@
 # set the finite element type
 set fe_type = BDM
 # order of the finite element to use.
-set fe order = 2
+set fe order = 1
 # dimension of the problem (eg. 2 or 3 dimension)
 set dim = 3
 # initial global refinement
